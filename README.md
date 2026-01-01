@@ -1,6 +1,18 @@
 # Dataset Analyzer
 
-A minimal, retro-styled object detection dataset analysis tool.
+A lightweight tool designed to help you analyze and understand object detection datasets without unnecessary complexity.
+
+Many existing solutions are paid, require uploading data to the cloud, or come with bloated features that add friction rather than value. This repository does one thing well: it helps you inspect and reason about your object detection data.
+
+By gaining better visibility into your dataset, you can:
+
+-> Improve dataset collection and preprocessing
+
+-> Diagnose failure cases on specific data subsets
+
+-> Train more robust and reliable models
+
+The setup is intentionally minimal, so you can get started quickly and focus on what actually matters: your data and your model’s performance.
 
 ## Features
 
@@ -8,7 +20,6 @@ A minimal, retro-styled object detection dataset analysis tool.
 - **Statistics** — class distribution, bounding box analysis, spatial heatmaps
 - **Data Explorer** — browse images, view annotations, filter by class/split
 - **Local Processing** — images stay on your disk, nothing uploaded
-- **Dark/Light Mode** — retro terminal aesthetic
 
 ## Setup
 
