@@ -21,6 +21,11 @@ The setup is intentionally minimal, so you can get started quickly and focus on 
 - **Data Explorer** — browse images, view annotations, filter by class/split
 - **Local Processing** — images stay on your disk, nothing uploaded
 
+## Preview
+
+![demo](https://github.com/user-attachments/assets/d80ad90e-b6f1-4c8a-bbb7-7d202dd88b5f)
+
+
 ## Setup
 
 ### 1. Clone
